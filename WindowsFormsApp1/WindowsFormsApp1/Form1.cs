@@ -26,6 +26,7 @@ namespace WindowsFormsApp1
         {
             button2.Text = DateTime.Today.ToString();
             //edit btn2
+            //edut today2
         }
     }
 }
